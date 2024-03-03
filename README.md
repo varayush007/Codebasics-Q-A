@@ -1,4 +1,4 @@
-# Codebasics Q&A: Question and Answer System Based on Google Palm LLM and Langchain for E-learning company
+# Codebasics Q&A
 
 This is an end to end LLM project based on Google Palm and Langchain. 
 
