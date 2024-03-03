@@ -2,7 +2,7 @@
 
 This is an end to end LLM project based on Google Palm and Langchain. 
 
-## Project Highlights
+# Project Highlights
 
 - Using a real CSV file of FAQs that Codebasics company is using right now. Their human staff will use this file to assist their course learners.
 
@@ -10,13 +10,13 @@ This is an end to end LLM project based on Google Palm and Langchain.
 
 - User will be able to use this system to ask questions directly and get answers within seconds
 
-Tech Stack Used 
+# Tech Stack Used 
 - Langchain + Google Palm: LLM based Q&A
 - Streamlit: UI 
 - Huggingface instructor embeddings: Text embeddings
 - FAISS: Vector databse
 
-## Installation
+# Installation
 
 1. Clone this repository to your local machine using:
 
@@ -36,7 +36,7 @@ Tech Stack Used
     GOOGLE_API_KEY="your_api_key_here"
     ```
 
-## Usage 
+# Usage 
 
 1. Run the Streamlit app by executing:
 
@@ -52,7 +52,7 @@ Tech Stack Used
 
 - Now you are ready to ask questions. Type your question in Question box and hit Enter
 
-## Sample Questions
+# Sample Questions
 
 - Do you guys provide internship and also do you offer EMI payments?
 
@@ -64,7 +64,7 @@ Tech Stack Used
 
 - I don't see power pivot. how can I enable it?
 
-## Project Structure
+# Project Structure
 
 - main.py: The main Streamlit application script.
 
