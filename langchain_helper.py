@@ -44,7 +44,6 @@ def get_qa_chain():
 
         QUESTION: {question}"""
 
-
     PROMPT = PromptTemplate(
         template=prompt_template,
         input_variables=["context", "question"]
@@ -60,6 +59,7 @@ def get_qa_chain():
     )
 
     return chain
+
 
 if __name__ == "__main__":
     create_vector_db()
