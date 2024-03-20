@@ -5,7 +5,7 @@ This is an end to end LLM project based on Google Palm and Langchain.
 # Project Highlights
 
 - Using a real CSV file of FAQs that Codebasics company is using right now. Their human staff will use this file to assist their course learners.
-- This bot is not restricted towards FAQs related to Codebasics you can confirm the format of csv file and can use you own CSV file to create you own FAQ bot.
+- This bot is not limited only to FAQs related to Codebasics you can confirm the format of csv file and can use you own CSV file to create you own FAQ bot.
 - Building an LLM based question and answer system that can reduce the workload of their human staff.
 - User will be able to use this system to ask questions directly and get answers within seconds
 
